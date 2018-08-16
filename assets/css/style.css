@@ -10,3 +10,43 @@ h1 {
     bottom: -29px;
     left: 1px;
 }
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../images/141222133223-sixties-background-full-169.png);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    opacity: 50%;
+}
+.buttons{
+    position: absolute;
+    left: 45px;
+}
+#form{
+    position: absolute;
+    left: 700px;
+    top: 222px;
+}
+#submit{
+    position: absolute;
+    left: 876px;
+    top: 340px;
+}
+#gifs-appear-here {
+    float: left;
+    position: absolute;
+    top: 275px;
+    width: 33.33%;
+    padding: 50px;
+    
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+    
+
