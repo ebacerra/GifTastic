@@ -1,1 +1,1 @@
-GifTastic Porject 
+GifTastic Project 
